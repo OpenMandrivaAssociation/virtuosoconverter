@@ -1,7 +1,7 @@
 Name:           virtuosoconverter
 Summary:        Virtuoso database converter tool
 Version:        0.1
-Release:        %mkrel 2
+Release:        %mkrel 3
 Group:          Graphical desktop/KDE
 License:        GPLv2+
 URL:            http://www.kde.org
