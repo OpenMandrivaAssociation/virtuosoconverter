@@ -34,3 +34,23 @@ rm -rf %{buildroot}
 
 %clean
 rm -rf %{buildroot}
+
+
+%changelog
+* Wed Dec 08 2010 Oden Eriksson <oeriksson@mandriva.com> 0.1-4mdv2011.0
++ Revision: 615411
+- the mass rebuild of 2010.1 packages
+
+* Wed Apr 28 2010 Nicolas Lécureuil <nlecureuil@mandriva.com> 0.1-3mdv2010.1
++ Revision: 540283
+- Updated tarball
+
+  + Funda Wang <fwang@mandriva.org>
+    - rebuild
+
+* Wed Feb 03 2010 Nicolas Lécureuil <nlecureuil@mandriva.com> 0.1-1mdv2010.1
++ Revision: 500268
+- add buildrequire
+- import virtuosoconverter
+
+
