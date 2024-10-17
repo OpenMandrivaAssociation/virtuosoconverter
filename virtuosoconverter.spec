@@ -4,7 +4,7 @@ Version:        0.1
 Release:        5
 Group:          Graphical desktop/KDE
 License:        GPLv2+
-URL:            http://www.kde.org
+URL:            https://www.kde.org
 Source0:        %name-%version.tar.bz2
 BuildRequires:  kdelibs4-devel
 BuildRequires:	kdebase4-workspace-devel
